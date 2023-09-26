@@ -3,14 +3,18 @@
 	background-color:#f5f5f5;
 	padding:30px;
 }
-div{
-	padding:5px;
+#maine{
+	padding:15px;
 	background-color:white;
 	border:1px solid #f5f5f5;
-	margin:10px;
 	
-.txt{
+span{
 	text-align:right;
 	font-style:italic;
 	
 }
+	p{
+		padding:10px;
+		margin:10px;
+		border:1px solid black;
+	}
